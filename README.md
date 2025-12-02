@@ -3,8 +3,9 @@ A paper list on mobile manipulation
 
 ## Manipulator types
 1. Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid, and John J Leonard. 2017. Past, present, and
-future of simultaneous localization and mapping: Toward the robust-perception age. IEEE Transactions on robotics 32, 6 (2017), 1309–1332.
-[paper](https://ieeexplore.ieee.org/abstract/document/7747236)  
+future of simultaneous localization and mapping: Toward the robust-perception age. IEEE Transactions on robotics 32, 6 (2017), 1309–1332.<br>
+[\[paper\]](https://ieeexplore.ieee.org/abstract/document/7747236)
+
 3. Wim Meeussen, Melonee Wise, Stuart Glaser, Sachin Chitta, Conor McGann, Patrick Mihelich, Eitan Marder-Eppstein, Marius Muja, Victor
 Eruhimov, Tully Foote, et al . 2010. Autonomous door opening and plugging in with a personal robot. In 2010 IEEE International Conference on
 Robotics and Automation. IEEE, 729–736.

@@ -3,7 +3,7 @@ A paper list on mobile manipulation
 
 ## Manipulator types
 Table:Mobile Manipulation Platforms and Applications
-<img width="721" height="586" alt="1764643150640" src="https://github.com/user-attachments/assets/71e9dc06-66e5-4b45-a209-712de4687644" />
+<img width="721" height="586" alt="1764643150640" src="https://github.com/user-attachments/assets/71e9dc06-66e5-4b45-a209-712de4687644" /><br>
 Sorted by the sequence of our paper citations :
 1. Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid, and John J Leonard. 2017. Past, present, and
 future of simultaneous localization and mapping: Toward the robust-perception age. IEEE Transactions on robotics 32, 6 (2017), 1309–1332.<br>
@@ -185,7 +185,7 @@ sional Movements: A Preliminary Study on the Integrated Mechanism with a Hexacop
 63. Mathieu Kemp, Brett W. Hobson, and John H. Long. 2005. MADELEINE: An Agile AUV Propelled by Flexible Fins. Proceedings of the 14th International Symposium on Unmanned Untethered Submersible Technology, 1–6.<br>
 
 ## Classical methods
-Table:ummary of work on classical mobile manipulation methods
+Table:Summary of work on classical mobile manipulation methods
 <img width="725" height="471" alt="1764643435370" src="https://github.com/user-attachments/assets/d0407523-8da3-4607-86f1-3156afc7e63d" />
 
 ### Perceiving

@@ -2,6 +2,9 @@
 A paper list on mobile manipulation
 
 ## Manipulator types
+Table:Mobile Manipulation Platforms and Applications
+<img width="721" height="586" alt="1764643150640" src="https://github.com/user-attachments/assets/71e9dc06-66e5-4b45-a209-712de4687644" />
+Sorted by the sequence of our paper citations :
 1. Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid, and John J Leonard. 2017. Past, present, and
 future of simultaneous localization and mapping: Toward the robust-perception age. IEEE Transactions on robotics 32, 6 (2017), 1309–1332.<br>
 [\[paper\]](https://ieeexplore.ieee.org/abstract/document/7747236)
@@ -182,10 +185,23 @@ sional Movements: A Preliminary Study on the Integrated Mechanism with a Hexacop
 63. Mathieu Kemp, Brett W. Hobson, and John H. Long. 2005. MADELEINE: An Agile AUV Propelled by Flexible Fins. Proceedings of the 14th International Symposium on Unmanned Untethered Submersible Technology, 1–6.<br>
 
 ## Classical methods
+Table:ummary of work on classical mobile manipulation methods
+<img width="725" height="471" alt="1764643435370" src="https://github.com/user-attachments/assets/d0407523-8da3-4607-86f1-3156afc7e63d" />
 
-A table 
 ### Perceiving
-
+1. John Canny. 2009. A computational approach to edge detection. IEEE Transactions on pattern analysis and machine intelligence 6 (2009), 679–698.<br>
+[\[paper\]](https://ieeexplore.ieee.org/document/4767851)
+2. Irwin Sobel and Gary Feldman. 1968. An Isotropic 3×3 Image Gradient Operator. Technical Report SAIL-68-1. Stanford Artificial Intelligence
+Laboratory (SAIL), Stanford, CA, USA.<br>
+[\[paper\]](https://www.researchgate.net/publication/239398674_An_Isotropic_3x3_Image_Gradient_Operator)
+3. Timo Ojala, Matti Pietikäinen, and Topi Mäenpää. 2002. Multiresolution Gray-Scale and Rotation Invariant Texture Classification with Local
+Binary Patterns. IEEE Transactions on Pattern Analysis and Machine Intelligence 24, 7 (2002), 971–987. doi:10.1109/TPAMI.2002.1017623<br>
+[\[paper\]](https://ieeexplore.ieee.org/document/1017623)
+4. Navneet Dalal and Bill Triggs. 2005. Histograms of Oriented Gradients for Human Detection. In Proceedings of the 2005 IEEE Computer Society
+Conference on Computer Vision and Pattern Recognition (CVPR), Vol. 1. IEEE, 886–893. doi:10.1109/CVPR.2005.177<br>
+[\[paper\]](https://ieeexplore.ieee.org/abstract/document/1467360)
+5. David G Lowe. 1999. Object recognition from local scale-invariant features. In Proceedings of the seventh IEEE international conference on computer vision, Vol. 2. Ieee, 1150–1157.<br>
+[\[paper\]](https://ieeexplore.ieee.org/document/790410)
 #### object detection
 
 ### Reasoning

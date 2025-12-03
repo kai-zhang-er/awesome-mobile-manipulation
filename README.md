@@ -2,8 +2,9 @@
 A paper list on mobile manipulation
 
 ## Manipulator types
-Table:Mobile Manipulation Platforms and Applications
-<img width="721" height="586" alt="1764643150640" src="https://github.com/user-attachments/assets/71e9dc06-66e5-4b45-a209-712de4687644" /><br>
+Figure:Different types of mobile manipulators and representative platforms
+<img width="901" height="875" alt="1764731998124" src="https://github.com/user-attachments/assets/66d130bf-9f2e-4ea1-a8f6-e742b7e68059" />
+
 Sorted by the sequence of our paper citations :
 1. Cesar Cadena, Luca Carlone, Henry Carrillo, Yasir Latif, Davide Scaramuzza, José Neira, Ian Reid, and John J Leonard. 2017. Past, present, and
 future of simultaneous localization and mapping: Toward the robust-perception age. IEEE Transactions on robotics 32, 6 (2017), 1309–1332.<br>
